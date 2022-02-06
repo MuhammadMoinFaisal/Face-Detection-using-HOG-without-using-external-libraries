@@ -1,0 +1,11 @@
+https://learnopencv.com/histogram-of-oriented-gradients/
+
+https://medium.com/analytics-vidhya/a-take-on-h-o-g-feature-descriptor-e839ebba1e52
+
+https://www.analyticsvidhya.com/blog/2021/12/implementing-computer-vision-face-detection/
+
+https://www.youtube.com/watch?v=4ESLTAd3IOM
+
+https://www.youtube.com/watch?v=0Zib1YEE4LU&t=78s
+
+

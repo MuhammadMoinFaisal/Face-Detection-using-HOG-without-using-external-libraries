@@ -1,0 +1,5 @@
+https://github.com/Amirhosein-javadi/Face-Detection-Using-HOG-Computer-Vision
+
+https://learnopencv.com/histogram-of-oriented-gradients/
+
+https://stackoverflow.com/questions/25349178/calculating-percentage-of-bounding-box-overlap-for-image-detector-evaluation
